@@ -1,0 +1,6 @@
+numpy
+pandas
+SQLAlchemy
+openpyxl
+#psycopg2 
+psycopg2-binary #(Work for linux) 
